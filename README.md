@@ -118,7 +118,7 @@ your reply, Eddie also says this things are important in Open Source and to be s
    src="https://github-readme-stats.vercel.app/api?username=timmotal&show_icons=true&theme=maroongold" 
 />
  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmotal&layout=compact)](https://github.com/timmotal/github-readme-stats)
  
  
  
