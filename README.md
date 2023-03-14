@@ -17,7 +17,7 @@ const WEB_DEVELOPMENT = 'AWE_INSPIRING';
 
 - 🎙️ We can talk about **Javascript and tell me something i do not know ⚡**
 
-- 🤙 Say "Hola" to me **hammedo62@gmail.com 📡**
+- 🤙 Say "Hola" to me **timmortaltech@gmail.com 📡**
 
 - 🕹️ Fun fact - **I breathe IN and OUT ♾️**
 </p>
