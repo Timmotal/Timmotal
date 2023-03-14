@@ -27,7 +27,7 @@ const WEB_DEVELOPMENT = 'AWE_INSPIRING';
 <a href="https://dev.to/timmortal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="timmortal" height="30" width="40" /></a>
 <a href="https://twitter.com/timmortalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timmortalola" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/timmortal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timmortal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/timmortal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="timmortal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11153634/timmortal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="timmortal" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
