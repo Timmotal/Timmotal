@@ -2,6 +2,7 @@
 <h1 align="center">Hello 👋</h1>
 
  ## Web Development
+ [![An image of @timmortal7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/timmortal7)](https://holopin.io/@timmortal7)
  ```js
 const WEB_DEVELOPMENT = 'AWE_INSPIRING';
 ```
