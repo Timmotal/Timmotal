@@ -15,7 +15,7 @@ const WEB_DEVELOPMENT = 'AWE_INSPIRING';
 
 - 🖌️ I’m currently learning **anything that catches my fancy👣**
 
-- 🎙️ We can talk about **Javascript and tell me something i do not know.⚡**
+- 🎙️ We can talk about **Javascript and tell me something I do not know.⚡**
 
 - 🤙 Say "Hola" to me **timmortaltech@gmail.com 📡**
 
